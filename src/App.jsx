@@ -49,21 +49,21 @@ const DATA = {
     experience: [
       {
         company: "Freelance - Soporte Internacional",
-        period: "2024 - Actualidad",
+        period: "2026 - Actualidad",
         title: "Especialista en Soporte TI Remoto",
         desc: "Provisión de soporte técnico nivel 1 y 2 para clientes corporativos internacionales. Diagnóstico avanzado de hardware/software, configuración de VPNs, administración de usuarios y gestión de estaciones de trabajo.",
-        tags: ["Soporte Global", "Remoto", "VPN", "ITSM"]
+        tags: ["Soporte Global", "Remoto", "Correos", "ITSM"]
       },
       {
         company: "Universidad Libre",
-        period: "2015 - 2024",
+        period: "2015 - Actualidad",
         title: "Coordinador de Mesa de Ayuda / Ingeniero de Soporte",
         desc: "Liderazgo de soporte técnico institucional. Administración de servidores Ubuntu y Windows, y gestión de infraestructura de red para gran escala de usuarios.",
         tags: ["Liderazgo", "GLPI", "Ubuntu Server", "O365"]
       },
       {
         company: "Univ. Francisco de Paula Santander",
-        period: "2010 - 2012",
+        period: "2014 - 2015",
         title: "Auxiliar de Soporte TI",
         desc: "Mantenimiento preventivo y correctivo. Resolución de problemas técnicos básicos de hardware y software.",
         tags: ["Mantenimiento", "PC Support"]
